@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Tư Vấn Tuyển Sinh AI",
+  "description": "Ứng dụng luyện kỹ năng tư vấn tuyển sinh sử dụng Gemini AI đóng vai phụ huynh, học sinh với nhiều tính cách khác nhau và chấm điểm chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
